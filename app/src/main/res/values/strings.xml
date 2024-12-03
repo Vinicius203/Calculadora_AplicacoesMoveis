@@ -1,0 +1,32 @@
+<resources>
+    <!-- Nome do Aplicativo -->
+    <string name="app_name">Calculadora</string>
+
+    <!-- Textos dos Botões Numéricos -->
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="zero">0</string>
+
+    <!-- Operadores e Funções -->
+    <string name="divide">÷</string>
+    <string name="multiply">×</string>
+    <string name="subtract">−</string>
+    <string name="plus">+</string>
+    <string name="clear">C</string>
+    <string name="equal">=</string>
+
+    <!-- Descrições e Mensagens -->
+    <string name="history_label">Histórico</string>
+    <string name="current_result_label">Resultado Atual</string>
+    <string name="error_invalid_input">Entrada inválida</string>
+    <string name="error_division_by_zero">Erro: Divisão por zero</string>
+    <string name="error_unexpected">Erro inesperado</string>
+    <string name="clear_history">Apagar Histórico</string>
+</resources>
